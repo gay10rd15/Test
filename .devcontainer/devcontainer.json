@@ -1,0 +1,5 @@
+{
+    "name": "Musikcube Dev Environment",
+    "postCreateCommand": "chmod +x .devcontainer/setup-musikcube.sh && ./.devcontainer/setup-musikcube.sh"
+}
+
