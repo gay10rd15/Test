@@ -1,1 +1,2 @@
-this is the chat. put your name like this - parker
+this is a chat. put your name after stuff you say like this - parker
+if you finaly get into the codespace please repond
