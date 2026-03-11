@@ -1,5 +1,7 @@
 {
-    "name": "Musikcube Dev Environment",
-    "postCreateCommand": "chmod +x .devcontainer/setup-musikcube.sh && ./.devcontainer/setup-musikcube.sh"
+  "name": "Swift Environment",
+  "image": "swift:latest", // Use the latest official Swift image
+  "extensions": [
+    "swiftlang.swift-vscode" // Installs the official Swift extension
+  ]
 }
-
