@@ -1,5 +1,0 @@
-homebrew
-lua_injector
-injector
-dylib
-tweak_loader
